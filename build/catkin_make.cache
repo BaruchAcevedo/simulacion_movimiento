@@ -1,0 +1,2 @@
+mapa
+-DCATKIN_DEVEL_PREFIX=/home/baruch/Documentos/Robotica/Rviz/devel -DCMAKE_INSTALL_PREFIX=/home/baruch/Documentos/Robotica/Rviz/install -G Unix Makefiles

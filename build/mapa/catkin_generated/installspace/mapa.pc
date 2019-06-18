@@ -1,0 +1,8 @@
+prefix=/home/baruch/Documentos/Robotica/Rviz/install
+
+Name: mapa
+Description: Description of mapa
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/baruch/Documentos/Robotica/Rviz/install/lib 
+Requires: 

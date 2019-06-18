@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ocupancy.dir/src/occupancy.cpp.o  -o /home/baruch/Documentos/Robotica/Rviz/devel/lib/mapa/ocupancy 
